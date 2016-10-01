@@ -1,0 +1,25 @@
+0.2.2 - September 18, 2016
+- Added five new guitar related channels:
+----- Gemini Guitar
+----- Guitar World
+----- Guitarist Magazine
+----- Steve Stine
+----- That Pedal Show
+
+0.2.1 - May 30, 2016
+- Fixed thumbnails of new channels not displaying.
+
+0.2.0 - May 30, 2016
+- Added five new guitar related channels: 
+----- Chicago Music Exchange
+----- intheblues
+----- JoeBonamassaTV
+----- JustinGuitar
+----- QuistJam
+
+
+0.1.1 - May 30, 2016
+- Fixed an error where the main addon description wasn't showing.
+
+0.1.0 - May 29, 2016
+- Initial Release

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<addon id="plugin.video.metalvideos" name="Metal Videos" version="0.1.0" provider-name="Alvin Procknow">
+	<requires>
+		<import addon="xbmc.python" version="2.1.0"/>
+		<import addon="script.module.addon.common" version="2.0.0"/>
+		<import addon="plugin.video.youtube" version="5.0.0"/>
+	</requires>
+	<extension point="xbmc.python.pluginsource" library="default.py">
+		<provides>video</provides>
+	</extension>
+	<extension point="xbmc.addon.metadata">
+		<platform>all</platform>
+		<summary lang="en">Metal Videos</summary>
+		<description lang="en">YouTube channel videos from the world's best metal bands.</description>
+		<disclaimer lang="en"></disclaimer>
+		<license>GNU GENERAL PUBLIC LICENSE. Version 2, June 1991</license>
+		<forum></forum>
+		<website>http://www.alvinprocknow.com/</website>
+		<source>http://kodi.alvinprocknow.com/files/plugin.video.metalvideos/</source>
+		<email></email>
+	</extension>
+</addon>
