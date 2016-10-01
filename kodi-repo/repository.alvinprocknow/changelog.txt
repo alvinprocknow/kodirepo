@@ -1,0 +1,5 @@
+Version 1.1.0 - October 1, 2016
+- Moved repository to GitHub (https://github.com/alvinprocknow/kodirepo/)
+
+Version 1.0.0 - May 22, 2016
+- Initial Release

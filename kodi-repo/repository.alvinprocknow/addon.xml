@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<addon id="repository.alvinprocknow" name="Alvin Procknow's Repository" version="1.1.0" provider-name="Alvin Procknow">
+	<extension point="xbmc.addon.repository" name="Alvin Procknow's Repository">
+		<info compressed="true">https://raw.githubusercontent.com/alvinprocknow/kodirepo/master/addons.xml</info>
+		<checksum>https://raw.githubusercontent.com/alvinprocknow/kodirepo/master/addons.xml.md5</checksum>
+		<datadir zip="true">https://raw.githubusercontent.com/alvinprocknow/kodirepo/master/zip/</datadir>
+	</extension>
+	<extension point="xbmc.addon.metadata">
+		<summary>A few addons made by me.</summary>
+		<description>Currently creating more addons for your enjoyment.</description>
+		<disclaimer></disclaimer>
+		<platform>all</platform>
+	</extension>
+</addon>
